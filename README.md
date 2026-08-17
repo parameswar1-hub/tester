@@ -66,5 +66,4 @@ Huge shoutout to Vikas and the CloudDevOpsHub community for keeping the momentum
 
 
 
-hi
 done
