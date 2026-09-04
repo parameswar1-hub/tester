@@ -64,6 +64,3 @@ Huge shoutout to Vikas and the CloudDevOpsHub community for keeping the momentum
 
 #LearningInPublic #DevOps #Linux #SystemAdministration #CommandLine #CloudComputing #Infrastructure #TechCommunity #Bash #ContinuousLearning
 
-
-
-done
