@@ -1,6 +1,6 @@
 Here is a point-to-point summary of the session, parameswar:
 
-Session Wrap-Up & Housekeeping
+
 
 Cloud(Vikas) asked participants who hadn't executed commands to do so after the session
 
